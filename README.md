@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently following Cybersecurity degree & Artificial Intelligence degree
+ - 👀 I’m interested in
+  - Cyber Security
+  - AI
+ - 🌱 I’m currently learning
+  - at SLIIT
+  - at University of Moratuwa
+ - 📫 How to reach me
+  - Whatsapp : +94713501969
+  - Email : ranushmithila45@gmail.com
+  - Linkedin : https://www.linkedin.com/in/mithila-bandara-1358641a6/
 <!--
 **RanushMithila/RanushMithila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
