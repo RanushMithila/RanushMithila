@@ -12,7 +12,7 @@
  - 📫 How to reach me
     - Whatsapp : +94713501969
     - Email : ranushmithila45@gmail.com
-    - Linkedin : https://www.linkedin.com/in/mithila-bandara-1358641a6/
+    - Linkedin : www.linkedin.com/in/RanushMithila
 <!--
 **RanushMithila/RanushMithila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
