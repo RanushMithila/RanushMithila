@@ -2,8 +2,8 @@
 
 
  - 👀 I’m interested in
-  - Cyber Security
-  - AI
+  -- Cyber Security
+  -- AI
  - 🌱 I’m currently learning
   - at SLIIT
   - at University of Moratuwa
