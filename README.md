@@ -13,9 +13,9 @@ My diverse educational background and practical experience make me a well-rounde
 I am excited about leveraging my skills and knowledge to contribute to cutting-edge projects and drive advancements in the field of technology.
 
 Feel free to reach out to me through the following channels:
-   * 📞 Whatsapp : +94713501969
-   * 📧 Email : ranushmithila45@gmail.com
-   * 💼 Linkedin : www.linkedin.com/in/RanushMithila
+    📞 Whatsapp : +94713501969
+    📧 Email : ranushmithila45@gmail.com
+    💼 Linkedin : www.linkedin.com/in/RanushMithila
 <!--
 **RanushMithila/RanushMithila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
