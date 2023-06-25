@@ -1,18 +1,16 @@
 <h1 align="center">
- Hi there 👋
+ 👋 Hi there! I'm Ranush Mithila!
  </h1>
 
-I am an undergraduate student pursuing dual degrees in Cyber Security at SLIIT and Artificial Intelligence at the University of Moratuwa. This unique combination of disciplines allows me to bring a diverse perspective to any tech-related role.
+🎓 Currently pursuing dual degrees in Cyber Security at SLIIT and Artificial Intelligence at the University of Moratuwa, I bring a unique, dual-disciplinary perspective to the world of technology.
 
-With a strong focus on Cyber Security, I possess hands-on experience in various areas such as hacking, Linux, web security, and Android app penetration testing. This practical knowledge enables me to effectively analyze and solve complex security problems. I have actively participated in bug bounties for renowned companies including Helakuru, Payhere, and Bugzero, further enhancing my understanding of system security and identifying potential vulnerabilities.
+💻 With hands-on experience in hacking, Linux, web security, and Android app penetration testing, I'm passionate about solving complex security problems efficiently. 💪 My bug bounty exploits for high-profile companies like Helakuru, Payhere, and Bugzero have provided me with a comprehensive understanding of system security and its potential loopholes.
 
-Beyond my technical skills, I also possess proven leadership and project management abilities, thriving in collaborative team environments. Throughout my academic journey, I have consistently demonstrated the ability to effectively coordinate and deliver successful projects.
+🚀 Beyond technical skills, I possess proven leadership and project management abilities, excelling in collaborative team environments. 🌟 My diverse educational background and practical experience make me a well-rounded candidate for dynamic, solution-oriented roles in the tech industry.
 
-My diverse educational background and practical experience make me a well-rounded candidate for dynamic, solution-oriented roles within the technology sector. I am particularly interested in opportunities in SOC (Security Operations Center), VAPT (Vulnerability Assessment and Penetration Testing), GRC (Governance, Risk, and Compliance), Cloud, and networking domains.
+🔭 I'm particularly interested in opportunities in SOC, VAPT, GRC, Cloud, and networking domains. Let's connect and make a difference together!
 
-I am excited about leveraging my skills and knowledge to contribute to cutting-edge projects and drive advancements in the field of technology.
-
-Feel free to reach out to me through the following channels:
+📬 You can reach me through:
 
      📞 Whatsapp : +94713501969
      📧 Email : ranushmithila45@gmail.com
