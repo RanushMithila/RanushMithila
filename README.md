@@ -8,7 +8,7 @@
 
 🚀 Beyond technical skills, I possess proven leadership and project management abilities, excelling in collaborative team environments. 🌟 My diverse educational background and practical experience make me a well-rounded candidate for dynamic, solution-oriented roles in the tech industry.
 
-🔭 I'm particularly interested in opportunities in SOC, VAPT, GRC, Cloud, and networking domains. Let's connect and make a difference together!
+🔭 I'm particularly interested in opportunities in SOC, VAPT, Cloud, and networking domains. Let's connect and make a difference together!
 
 📬 You can reach me through:
 
